@@ -1,0 +1,357 @@
+1507292369855	geckodriver	INFO	geckodriver 0.19.0
+1507292369960	geckodriver	INFO	Listening on 127.0.0.1:57240
+1507292370500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.oWla1ThjKWZu"
+1507292372182	Marionette	INFO	Enabled via --marionette
+2017-10-06 17:49:32.351 firefox-bin[68983:12675187] *** WARNING: Textured window <ToolbarWindow: 0x120464340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 17:49:33.847 plugin-container[68984:12675273] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507292374742	Marionette	INFO	Listening on port 57247
+1507292374921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507292375545	Marionette	DEBUG	Register listener.js for window 2147483649
+1507292375590	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507292377151	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507292377151	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507292378130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507292383942	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507292461466	geckodriver	INFO	geckodriver 0.19.0
+1507292461544	geckodriver	INFO	Listening on 127.0.0.1:57357
+1507292461937	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.PQovX7ypMhnv"
+1507292462994	Marionette	INFO	Enabled via --marionette
+2017-10-06 17:51:03.095 firefox-bin[69346:12677251] *** WARNING: Textured window <ToolbarWindow: 0x11a89e340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 17:51:04.238 plugin-container[69347:12677315] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507292464843	Marionette	INFO	Listening on port 57364
+1507292464937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507292465033	Marionette	DEBUG	Register listener.js for window 2147483649
+1507292465114	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507292465741	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507292465742	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507292465916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507292467728	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1507292481507	geckodriver	INFO	geckodriver 0.19.0
+1507292481590	geckodriver	INFO	Listening on 127.0.0.1:57402
+1507292481954	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.l2z6EaOyjJQA"
+1507292482790	Marionette	INFO	Enabled via --marionette
+2017-10-06 17:51:22.862 firefox-bin[69406:12677728] *** WARNING: Textured window <ToolbarWindow: 0x123567340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 17:51:23.725 plugin-container[69407:12677786] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507292484227	Marionette	INFO	Listening on port 57409
+1507292484308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507292484378	Marionette	DEBUG	Register listener.js for window 2147483649
+1507292484419	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507292485214	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507292485214	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507292485396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507292486641	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507292561859	geckodriver	INFO	geckodriver 0.19.0
+1507292561942	geckodriver	INFO	Listening on 127.0.0.1:57502
+1507292562335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.6wply2BUzEkR"
+1507292563267	Marionette	INFO	Enabled via --marionette
+2017-10-06 17:52:43.343 firefox-bin[69471:12679709] *** WARNING: Textured window <ToolbarWindow: 0x11e963340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 17:52:44.482 plugin-container[69472:12679796] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507292565187	Marionette	INFO	Listening on port 57509
+1507292565210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507292565281	Marionette	DEBUG	Register listener.js for window 2147483649
+1507292565326	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507292566041	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507292566041	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507292566203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507292567564	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507292589733	geckodriver	INFO	geckodriver 0.19.0
+1507292589821	geckodriver	INFO	Listening on 127.0.0.1:57561
+1507292590221	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.l3BaLgj9dY9o"
+1507292591182	Marionette	INFO	Enabled via --marionette
+2017-10-06 17:53:11.262 firefox-bin[69532:12680517] *** WARNING: Textured window <ToolbarWindow: 0x11ee60340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+1507292592690	Marionette	INFO	Listening on port 57568
+1507292592847	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x4A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1507293534659	geckodriver	INFO	geckodriver 0.19.0
+1507293534745	geckodriver	INFO	Listening on 127.0.0.1:57679
+1507293535107	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.b3vwtGWPWKn1"
+1507293536759	Marionette	INFO	Enabled via --marionette
+2017-10-06 18:08:56.943 firefox-bin[69612:12686436] *** WARNING: Textured window <ToolbarWindow: 0x118564340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 18:08:58.371 plugin-container[69613:12686523] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507293539194	Marionette	INFO	Listening on port 57686
+1507293539317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507293539428	Marionette	DEBUG	Register listener.js for window 2147483649
+1507293539539	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507293540391	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507293540392	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507293540562	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507293542106	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507294048096	geckodriver	INFO	geckodriver 0.19.0
+1507294048176	geckodriver	INFO	Listening on 127.0.0.1:57839
+1507294048541	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.Zux4O1VanovH"
+1507294049248	Marionette	INFO	Enabled via --marionette
+2017-10-06 18:17:29.335 firefox-bin[69678:12691254] *** WARNING: Textured window <ToolbarWindow: 0x125866340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 18:17:30.356 plugin-container[69679:12691319] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507294050979	Marionette	INFO	Listening on port 57846
+1507294051092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507294051175	Marionette	DEBUG	Register listener.js for window 2147483649
+1507294051207	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507294051969	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507294051970	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507294052218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507294053807	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1507294227343	geckodriver	INFO	geckodriver 0.19.0
+1507294227421	geckodriver	INFO	Listening on 127.0.0.1:57915
+1507294227815	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.mlEWvqXX8xoZ"
+1507294228520	Marionette	INFO	Enabled via --marionette
+2017-10-06 18:20:28.600 firefox-bin[69740:12693658] *** WARNING: Textured window <ToolbarWindow: 0x11b964340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 18:20:29.433 plugin-container[69741:12693721] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507294229949	Marionette	INFO	Listening on port 57922
+1507294230056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507294230123	Marionette	DEBUG	Register listener.js for window 2147483649
+1507294230149	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507294230613	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507294230613	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507294230819	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507294232277	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507294316787	geckodriver	INFO	geckodriver 0.19.0
+1507294316858	geckodriver	INFO	Listening on 127.0.0.1:58044
+1507294317277	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.yqDyFzIo8kIA"
+1507294317979	Marionette	INFO	Enabled via --marionette
+2017-10-06 18:21:58.060 firefox-bin[69800:12694709] *** WARNING: Textured window <ToolbarWindow: 0x123765340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 18:21:58.914 plugin-container[69801:12694757] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507294319550	Marionette	INFO	Listening on port 58051
+1507294319655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507294319757	Marionette	DEBUG	Register listener.js for window 2147483649
+1507294319824	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507294320307	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507294320307	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507294320470	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507294321824	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507294425387	geckodriver	INFO	geckodriver 0.19.0
+1507294425465	geckodriver	INFO	Listening on 127.0.0.1:58195
+1507294425850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.q57bZwVYzdMH"
+1507294426582	Marionette	INFO	Enabled via --marionette
+2017-10-06 18:23:46.659 firefox-bin[69861:12696189] *** WARNING: Textured window <ToolbarWindow: 0x119966340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 18:23:47.521 plugin-container[69862:12696253] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507294428033	Marionette	INFO	Listening on port 58202
+1507294428095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507294428162	Marionette	DEBUG	Register listener.js for window 2147483649
+1507294428204	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507294428754	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507294428755	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507294428919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507294430291	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 69862, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1507295541467	geckodriver	INFO	geckodriver 0.19.0
+1507295541547	geckodriver	INFO	Listening on 127.0.0.1:58451
+1507295541970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.SddB4irooeFl"
+1507295543011	Marionette	INFO	Enabled via --marionette
+2017-10-06 18:42:23.111 firefox-bin[69948:12709560] *** WARNING: Textured window <ToolbarWindow: 0x124963340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 18:42:24.142 plugin-container[69949:12709616] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507295544676	Marionette	INFO	Listening on port 58458
+1507295544702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507295544780	Marionette	DEBUG	Register listener.js for window 2147483649
+1507295544833	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507295545355	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507295545356	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507295545526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507295546928	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507295662952	geckodriver	INFO	geckodriver 0.19.0
+1507295663035	geckodriver	INFO	Listening on 127.0.0.1:50363
+1507295663460	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.ga7E6e64jkLS"
+1507295664395	Marionette	INFO	Enabled via --marionette
+2017-10-06 18:44:24.495 firefox-bin[70010:12710976] *** WARNING: Textured window <ToolbarWindow: 0x124e66340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 18:44:25.388 plugin-container[70011:12711042] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507295665928	Marionette	INFO	Listening on port 50370
+1507295666025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507295666092	Marionette	DEBUG	Register listener.js for window 2147483649
+1507295666185	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507295666960	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507295666960	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507295667140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507295668418	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507296032184	geckodriver	INFO	geckodriver 0.19.0
+1507296032265	geckodriver	INFO	Listening on 127.0.0.1:62455
+1507296032650	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.g3eN7RkCHuTV"
+1507296033607	Marionette	INFO	Enabled via --marionette
+2017-10-06 18:50:33.713 firefox-bin[70079:12714696] *** WARNING: Textured window <ToolbarWindow: 0x125164340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 18:50:34.624 plugin-container[70080:12714771] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507296035120	Marionette	INFO	Listening on port 62462
+1507296035213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507296035287	Marionette	DEBUG	Register listener.js for window 2147483649
+1507296035353	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507296035778	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507296035778	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507296035973	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507296037485	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507296185656	geckodriver	INFO	geckodriver 0.19.0
+1507296185735	geckodriver	INFO	Listening on 127.0.0.1:62586
+1507296186079	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.lv8CgoheTVR7"
+1507296186942	Marionette	INFO	Enabled via --marionette
+2017-10-06 18:53:07.021 firefox-bin[70140:12716438] *** WARNING: Textured window <ToolbarWindow: 0x119e64340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 18:53:07.885 plugin-container[70141:12716494] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507296188393	Marionette	INFO	Listening on port 62593
+1507296188434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507296188505	Marionette	DEBUG	Register listener.js for window 2147483649
+1507296188533	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507296189180	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507296189181	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507296189343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507296190557	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507296287262	geckodriver	INFO	geckodriver 0.19.0
+1507296287342	geckodriver	INFO	Listening on 127.0.0.1:62692
+1507296287699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.QNUC1StxOM0p"
+1507296288569	Marionette	INFO	Enabled via --marionette
+2017-10-06 18:54:48.645 firefox-bin[70202:12717706] *** WARNING: Textured window <ToolbarWindow: 0x11b365340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 18:54:49.519 plugin-container[70203:12717758] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507296290018	Marionette	INFO	Listening on port 62699
+1507296290039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507296290115	Marionette	DEBUG	Register listener.js for window 2147483649
+1507296290150	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507296290785	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507296290785	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507296290949	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507296292409	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507296416841	geckodriver	INFO	geckodriver 0.19.0
+1507296416914	geckodriver	INFO	Listening on 127.0.0.1:62811
+1507296417306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.dDYVqHyqRGzR"
+1507296418186	Marionette	INFO	Enabled via --marionette
+2017-10-06 18:56:58.267 firefox-bin[70265:12719064] *** WARNING: Textured window <ToolbarWindow: 0x120266340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 18:56:59.287 plugin-container[70266:12719142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa047, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507296420051	Marionette	INFO	Listening on port 62818
+1507296420211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507296420282	Marionette	DEBUG	Register listener.js for window 2147483649
+1507296420319	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507296421177	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507296421177	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507296421438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507296422952	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507296603898	geckodriver	INFO	geckodriver 0.19.0
+1507296603973	geckodriver	INFO	Listening on 127.0.0.1:62903
+1507296604342	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.71TGoEDRn8GI"
+1507296605232	Marionette	INFO	Enabled via --marionette
+2017-10-06 19:00:05.329 firefox-bin[70328:12721386] *** WARNING: Textured window <ToolbarWindow: 0x11a961340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+1507296606686	Marionette	INFO	Listening on port 62910
+1507296606715	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x4A0008,name=PMessagePort::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1507299047792	geckodriver	INFO	geckodriver 0.19.0
+1507299047873	geckodriver	INFO	Listening on 127.0.0.1:63617
+1507299048277	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.QjfSTK3CRWoc"
+1507299049242	Marionette	INFO	Enabled via --marionette
+2017-10-06 19:40:49.334 firefox-bin[70455:12824603] *** WARNING: Textured window <ToolbarWindow: 0x11ba67340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 19:40:50.299 plugin-container[70456:12824898] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507299050866	Marionette	INFO	Listening on port 63624
+1507299050924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507299051249	Marionette	DEBUG	Register listener.js for window 2147483649
+1507299051376	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507299051818	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507299051818	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507299052025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507299053602	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507299209001	geckodriver	INFO	geckodriver 0.19.0
+1507299209080	geckodriver	INFO	Listening on 127.0.0.1:63700
+1507299209444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.3gRLSsztg58w"
+1507299210414	Marionette	INFO	Enabled via --marionette
+2017-10-06 19:43:30.502 firefox-bin[70518:12848530] *** WARNING: Textured window <ToolbarWindow: 0x117d60340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+1507299211838	Marionette	INFO	Listening on port 63707
+1507299211998	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1507299430084	geckodriver	INFO	geckodriver 0.19.0
+1507299430161	geckodriver	INFO	Listening on 127.0.0.1:63854
+1507299430538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.JOvUpbyBzdaN"
+1507299431440	Marionette	INFO	Enabled via --marionette
+2017-10-06 19:47:11.515 firefox-bin[70589:12883585] *** WARNING: Textured window <ToolbarWindow: 0x117768340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 19:47:12.454 plugin-container[70590:12883842] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507299432962	Marionette	INFO	Listening on port 63861
+1507299433099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507299433168	Marionette	DEBUG	Register listener.js for window 2147483649
+1507299433193	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507299433681	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507299433681	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507299433870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507299435863	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507299570011	geckodriver	INFO	geckodriver 0.19.0
+1507299570089	geckodriver	INFO	Listening on 127.0.0.1:63931
+1507299570492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.Z9h1Kz4mvsQM"
+1507299571362	Marionette	INFO	Enabled via --marionette
+2017-10-06 19:49:31.439 firefox-bin[70654:12904848] *** WARNING: Textured window <ToolbarWindow: 0x11a067340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 19:49:32.440 plugin-container[70655:12905115] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507299573058	Marionette	INFO	Listening on port 63938
+1507299573153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507299573223	Marionette	DEBUG	Register listener.js for window 2147483649
+1507299573249	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507299573659	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507299573660	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507299573844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507299575343	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1507301966779	geckodriver	INFO	geckodriver 0.19.0
+1507301966851	geckodriver	INFO	Listening on 127.0.0.1:64265
+1507301967252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.E4TGmLwIjDT3"
+1507301968163	Marionette	INFO	Enabled via --marionette
+2017-10-06 20:29:28.240 firefox-bin[70888:12954034] *** WARNING: Textured window <ToolbarWindow: 0x120268340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 20:29:29.152 plugin-container[70889:12954100] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507301969678	Marionette	INFO	Listening on port 64272
+1507301969794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507301969862	Marionette	DEBUG	Register listener.js for window 2147483649
+1507301969923	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507301970593	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507301970594	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507301970780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507301989504	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1507301989517	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1507301989519	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1507301989758	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1507302028210	geckodriver	INFO	geckodriver 0.19.0
+1507302028291	geckodriver	INFO	Listening on 127.0.0.1:64313
+1507302028663	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/1b/6f94pj3n5v7_8ftx0715q6280000gn/T/rust_mozprofile.sXQHf1y2gZfD"
+1507302029532	Marionette	INFO	Enabled via --marionette
+2017-10-06 20:30:29.607 firefox-bin[70959:12955161] *** WARNING: Textured window <ToolbarWindow: 0x120168340> is getting an implicitly transparent titlebar. This will break when linking against newer SDKs. Use NSWindow's -titlebarAppearsTransparent=YES instead.
+2017-10-06 20:30:30.484 plugin-container[70960:12955218] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507302030984	Marionette	INFO	Listening on port 64320
+1507302031025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507302031096	Marionette	DEBUG	Register listener.js for window 2147483649
+1507302031125	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507302032541	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507302032542	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507302032710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1507302034165	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
